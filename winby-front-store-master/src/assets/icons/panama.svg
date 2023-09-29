@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 227 227" style="enable-background:new 0 0 227 227;" xml:space="preserve">
+<style type="text/css">
+	.Sombra_x0020_paralela{fill:none;}
+	.Esquinas_x0020_redondeadas_x0020_2_x0020_pt_x002E_{fill:#FFFFFF;stroke:#1D1D1B;stroke-miterlimit:10;}
+	.Reflejo_x0020_vivo_x0020_X{fill:none;}
+	.Bisel_x0020_suave{fill:url(#SVGID_1_);}
+	.Atardecer{fill:#FFFFFF;}
+	.Follaje_GS{fill:#FFDD00;}
+	.Pompadour_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#51AEE2;}
+	.st0{clip-path:url(#SVGID_3_);fill:#D21034;}
+	.st1{clip-path:url(#SVGID_3_);fill:#005293;}
+	.st2{clip-path:url(#SVGID_3_);}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#005293;}
+	.st5{fill:#D21034;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0.7071" y2="0.7071">
+	<stop  offset="0" style="stop-color:#E6E6EB"/>
+	<stop  offset="0.1754" style="stop-color:#E2E2E7"/>
+	<stop  offset="0.3552" style="stop-color:#D6D6DB"/>
+	<stop  offset="0.5371" style="stop-color:#C2C3C6"/>
+	<stop  offset="0.7204" style="stop-color:#A5A7A9"/>
+	<stop  offset="0.9031" style="stop-color:#818485"/>
+	<stop  offset="1" style="stop-color:#6B6E6E"/>
+</linearGradient>
+<g>
+	<defs>
+		
+			<ellipse id="SVGID_2_" transform="matrix(0.9994 -0.0332 0.0332 0.9994 -3.7095 3.8349)" cx="113.5" cy="113.5" rx="113.5" ry="113.5"/>
+	</defs>
+	<clipPath id="SVGID_3_">
+		<use xlink:href="#SVGID_2_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect x="-20.13" y="-2.98" class="st0" width="274.61" height="116.48"/>
+	<rect x="-20.13" y="113.5" class="st1" width="274.61" height="118.78"/>
+	<g class="st2">
+		<rect x="-20.2" y="-7.03" class="st3" width="131.54" height="120.62"/>
+		<rect x="111.35" y="113.5" class="st3" width="129.56" height="132.27"/>
+		<polygon class="st4" points="67.28,74.51 79.39,65.71 64.42,65.71 59.79,51.48 55.17,65.71 40.2,65.71 52.31,74.51 47.68,88.74 
+			59.79,79.95 71.9,88.74 		"/>
+		<polygon class="st5" points="164.02,161.83 176.13,153.03 161.16,153.03 156.53,138.79 151.91,153.03 136.94,153.03 
+			149.05,161.83 144.42,176.06 156.53,167.26 168.64,176.06 		"/>
+	</g>
+</g>
+</svg>

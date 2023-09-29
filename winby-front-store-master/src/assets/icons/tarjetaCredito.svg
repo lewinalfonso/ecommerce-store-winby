@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68">
+    <defs>
+        <style>.a{fill:#e4e4e4;}.b{fill:#068cf3;}.c{fill:#fff;}.d{opacity:0.5;}.e{fill:#44474c;}</style>
+    </defs>
+    <g transform="translate(0.001 0.239)">
+        <g transform="translate(-0.002 -0.239)">
+            <circle class="a" cx="34" cy="34" r="34" transform="translate(0 0)"/>
+        </g>
+        <g transform="translate(14.433 21.919)">
+            <g transform="translate(0)">
+                <path class="b" d="M1014.979,570.106a1.054,1.054,0,0,0-1.014-1.058H975.251a1.018,1.018,0,0,0-1.016,1.014v.86s0-.006,0-.008l-.026,22.812a1.02,1.02,0,0,0,1.014,1.017l38.713.04a1.018,1.018,0,0,0,1.016-1.014l.026-22.918s0-.005,0-.008Z" transform="translate(-974.21 -569.048)"/>
+                <g transform="translate(4.748 11.394)">
+                    <path class="c" d="M1024.677,619.941l-31.267-.033,0-4.788,31.269.034Z" transform="translate(-993.41 -615.12)"/>
+                </g>
+                <g class="d" transform="translate(4.478 22.364)">
+                    <rect class="e" width="1.06" height="11.191" transform="translate(0 1.06) rotate(-89.941)"/>
+                </g>
+                <g class="d" transform="translate(16.676 22.379)">
+                    <rect class="e" width="4.826" height="1.06" transform="translate(0 0)"/>
+                </g>
+                <g class="d" transform="translate(29.722 13.519)">
+                    <rect class="e" width="4.826" height="1.06" transform="translate(0 0)"/>
+                </g>
+                <rect class="f" width="40.764" height="4.869" transform="translate(0 3.424)"/>
+            </g>
+        </g>
+    </g>
+</svg>

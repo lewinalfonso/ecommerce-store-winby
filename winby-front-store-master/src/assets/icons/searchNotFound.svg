@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.0" id="Capa_1"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 263.88 304.72" style="enable-background:new 0 0 263.88 304.72;" xml:space="preserve">
+	<style type="text/css">
+	.st0{fill:#B2B2B2;}
+	.st1{fill:#FFFFFF;}
+	</style>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-123.5392" y1="-164.3523" x2="-122.8321" y2="-163.6452">
+		<stop offset="0" style="stop-color:#E6E6EB"/>
+		<stop offset="0.1738" style="stop-color:#E2E2E6"/>
+		<stop offset="0.352" style="stop-color:#D5D4D8"/>
+		<stop offset="0.5323" style="stop-color:#C0BFC2"/>
+		<stop offset="0.7139" style="stop-color:#A4A2A4"/>
+		<stop offset="0.8949" style="stop-color:#828282"/>
+		<stop offset="1" style="stop-color:#6B6E6E"/>
+	</linearGradient>
+	<path class="st0" d="M131.95,24.87L21.54,88.62V216.1l110.41,63.75l110.4-63.75V88.62L131.95,24.87z"/>
+	<g>
+		<path class="st0" d="M131.95,304.72L0,228.53V76.18L131.95,0l131.93,76.19v152.34L131.95,304.72z M10,222.76l121.95,70.41
+		l121.93-70.41V81.96L131.95,11.55L10,81.95V222.76z"/>
+	</g>
+	<g>
+		<path class="st1" d="M141.56,147.38c1.11-1.55,0.75-3.71-0.81-4.81l-14.05-10.02l10.02-14.05c1.11-1.55,0.75-3.71-0.81-4.81
+		c-1.55-1.11-3.71-0.75-4.81,0.81l-10.02,14.05l-14.05-10.02c-1.55-1.11-3.71-0.75-4.81,0.81s-0.75,3.71,0.81,4.81l14.05,10.02
+		l-10.02,14.05c-1.11,1.55-0.75,3.71,0.81,4.81c0.61,0.43,1.31,0.64,2,0.64c1.08,0,2.14-0.5,2.81-1.45l10.02-14.05l14.05,10.02
+		c0.61,0.43,1.31,0.64,2,0.64C139.83,148.83,140.89,148.32,141.56,147.38z"/>
+		<path class="st1" d="M182.7,224.6l-31.76-58.14c15.16-13.3,19.67-35.81,9.61-54.23c-11.65-21.32-38.47-29.19-59.78-17.54
+		c-21.32,11.65-29.19,38.47-17.54,59.78c5.64,10.33,14.97,17.84,26.26,21.15c4.11,1.21,8.3,1.8,12.46,1.8
+		c5.91,0,11.77-1.22,17.28-3.6l31.35,57.39L182.7,224.6z M111.43,169c-9.52-2.79-17.39-9.13-22.14-17.84
+		c-9.82-17.98-3.19-40.59,14.79-50.42c5.64-3.08,11.73-4.54,17.75-4.54c13.16,0,25.93,7,32.67,19.33
+		c4.76,8.71,5.84,18.75,3.04,28.27s-9.13,17.39-17.84,22.14C130.99,170.71,120.95,171.79,111.43,169z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 -41.1164 -55.5064)">
+		<tspan x="0" y="0" style="fill:#575756; font-family:'Montserrat-Regular'; font-size:14.9174px;">Lo sentimos, en estos momentos no podemos</tspan>
+		<tspan x="74.25" y="17.9" style="fill:#575756; font-family:'Montserrat-Regular'; font-size:14.9174px;">efectuar esta búsqueda : ( </tspan>
+	</text>
+</svg>

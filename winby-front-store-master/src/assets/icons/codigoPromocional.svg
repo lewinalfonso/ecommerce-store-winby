@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="33" viewBox="0 0 68 33">
+    <defs>
+        <style>.a{fill:#fff;stroke:#2a2a2a;}.b{fill:#2a2a2a;font-size:18px;font-family:Montserrat-Regular, Montserrat;letter-spacing:0.075em;}.c{stroke:none;}.d{fill:none;}</style>
+    </defs>
+    <g transform="translate(0.91 -6.059)">
+        <g class="a" transform="translate(-0.91 6.059)">
+            <rect class="c" width="68" height="33"/>
+            <rect class="d" x="0.5" y="0.5" width="67" height="32"/>
+        </g>
+        <text class="b" transform="translate(10.09 29.059)">
+            <tspan x="0" y="0">A123</tspan>
+        </text>
+    </g>
+</svg>

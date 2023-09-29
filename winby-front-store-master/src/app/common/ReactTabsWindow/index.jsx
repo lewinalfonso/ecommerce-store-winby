@@ -1,0 +1,1 @@
+export { TabsWindowContainer as ReactTabsWindow } from './containers'

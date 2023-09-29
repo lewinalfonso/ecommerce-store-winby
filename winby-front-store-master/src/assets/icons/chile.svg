@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 227 227" style="enable-background:new 0 0 227 227;" xml:space="preserve">
+<style type="text/css">
+	.Sombra_x0020_paralela{fill:none;}
+	.Esquinas_x0020_redondeadas_x0020_2_x0020_pt_x002E_{fill:#FFFFFF;stroke:#1D1D1B;stroke-miterlimit:10;}
+	.Reflejo_x0020_vivo_x0020_X{fill:none;}
+	.Bisel_x0020_suave{fill:url(#SVGID_1_);}
+	.Atardecer{fill:#FFFFFF;}
+	.Follaje_GS{fill:#FFDD00;}
+	.Pompadour_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#51AEE2;}
+	.st0{clip-path:url(#SVGID_3_);}
+	.st1{clip-path:url(#SVGID_5_);fill:#FFFFFF;}
+	.st2{clip-path:url(#SVGID_5_);fill:#2530A9;}
+	.st3{clip-path:url(#SVGID_5_);fill:#C22623;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0.7071" y2="0.7071">
+	<stop  offset="0" style="stop-color:#E6E6EB"/>
+	<stop  offset="0.1754" style="stop-color:#E2E2E7"/>
+	<stop  offset="0.3552" style="stop-color:#D6D6DB"/>
+	<stop  offset="0.5371" style="stop-color:#C2C3C6"/>
+	<stop  offset="0.7204" style="stop-color:#A5A7A9"/>
+	<stop  offset="0.9031" style="stop-color:#818485"/>
+	<stop  offset="1" style="stop-color:#6B6E6E"/>
+</linearGradient>
+<g>
+	<defs>
+		<circle id="SVGID_2_" cx="113.5" cy="113.5" r="113.5"/>
+	</defs>
+	<clipPath id="SVGID_3_">
+		<use xlink:href="#SVGID_2_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Chile_2_" class="st0">
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_4_" x="1.03" y="-3.65" width="417.02" height="243.27"/>
+				</defs>
+				<clipPath id="SVGID_5_">
+					<use xlink:href="#SVGID_4_"  style="overflow:visible;"/>
+				</clipPath>
+				<rect x="1.03" y="-3.65" class="st1" width="417.02" height="243.27"/>
+				<rect x="1.03" y="-3.65" class="st2" width="121.62" height="243.27"/>
+				<rect x="1.03" y="117.98" class="st3" width="417.02" height="121.64"/>
+				<polygon class="st1" points="61.85,26.75 52.45,55.67 66.91,60.37 				"/>
+				<polygon class="st1" points="61.85,26.75 71.25,55.67 56.78,60.37 				"/>
+				<polygon class="st1" points="90.77,47.77 60.36,47.77 60.36,62.97 				"/>
+				<polygon class="st1" points="90.77,47.77 66.16,65.65 57.22,53.34 				"/>
+				<polygon class="st1" points="32.92,47.77 57.53,65.65 66.47,53.34 				"/>
+				<polygon class="st1" points="32.92,47.77 63.33,47.77 63.33,62.97 				"/>
+				<polygon class="st1" points="79.72,81.76 70.32,52.85 55.86,57.55 				"/>
+				<polygon class="st1" points="79.72,81.76 55.12,63.89 64.06,51.59 				"/>
+				<polygon class="st1" points="43.98,81.76 68.57,63.89 59.63,51.59 				"/>
+				<polygon class="st1" points="43.98,81.76 53.37,52.85 67.83,57.55 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

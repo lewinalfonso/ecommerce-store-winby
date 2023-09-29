@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 227 227" style="enable-background:new 0 0 227 227;" xml:space="preserve">
+<style type="text/css">
+	.Sombra_x0020_paralela{fill:none;}
+	.Esquinas_x0020_redondeadas_x0020_2_x0020_pt_x002E_{fill:#FFFFFF;stroke:#1D1D1B;stroke-miterlimit:10;}
+	.Reflejo_x0020_vivo_x0020_X{fill:none;}
+	.Bisel_x0020_suave{fill:url(#SVGID_1_);}
+	.Atardecer{fill:#FFFFFF;}
+	.Follaje_GS{fill:#FFDD00;}
+	.Pompadour_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#51AEE2;}
+	.st0{clip-path:url(#SVGID_3_);}
+	.st1{fill:url(#SVGID_4_);}
+	.st2{fill:#FFDA00;}
+	.st3{fill:#007934;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0.7071" y2="0.7071">
+	<stop  offset="0" style="stop-color:#E6E6EB"/>
+	<stop  offset="0.1754" style="stop-color:#E2E2E7"/>
+	<stop  offset="0.3552" style="stop-color:#D6D6DB"/>
+	<stop  offset="0.5371" style="stop-color:#C2C3C6"/>
+	<stop  offset="0.7204" style="stop-color:#A5A7A9"/>
+	<stop  offset="0.9031" style="stop-color:#818485"/>
+	<stop  offset="1" style="stop-color:#6B6E6E"/>
+</linearGradient>
+<g>
+	<defs>
+		
+			<ellipse id="SVGID_2_" transform="matrix(0.9994 -0.0332 0.0332 0.9994 -3.7095 3.8349)" cx="113.5" cy="113.5" rx="113.5" ry="113.5"/>
+	</defs>
+	<clipPath id="SVGID_3_">
+		<use xlink:href="#SVGID_2_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-20.1296" y1="36.4054" x2="254.4769" y2="36.4054">
+			<stop  offset="0" style="stop-color:#CF1400"/>
+			<stop  offset="1" style="stop-color:#CF1400"/>
+		</linearGradient>
+		<rect x="-20.13" y="-2.98" class="st1" width="274.61" height="78.77"/>
+		<rect x="-20.13" y="75.26" class="st2" width="274.61" height="78.77"/>
+		<rect x="-20.13" y="153.5" class="st3" width="274.61" height="78.77"/>
+	</g>
+</g>
+</svg>

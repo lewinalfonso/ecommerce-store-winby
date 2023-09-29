@@ -1,0 +1,1 @@
+export { TabsWindow as TabsWindowContainer } from './TabsWindow'

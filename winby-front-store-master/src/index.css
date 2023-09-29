@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: PFont-Regular, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+p {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: PFont-Bold;
+}
+@font-face {
+  font-family: PFont-Bold;
+  src: url('./assets/fonts/Montserrat-Bold.ttf');
+}
+@font-face {
+  font-family: PFont-Regular;
+  src: url('./assets/fonts/Montserrat-Regular.ttf');
+}
+@font-face {
+  font-family: PFont-Medium;
+  src: url('./assets/fonts/Montserrat-Medium.ttf');
+}
+@font-face {
+  font-family: PFont-Light;
+  src: url('./assets/fonts/Montserrat-Light.ttf');
+}

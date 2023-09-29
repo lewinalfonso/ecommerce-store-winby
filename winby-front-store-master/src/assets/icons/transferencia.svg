@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="67" viewBox="0 0 68 67">
+    <defs>
+        <style>.a{fill:#e4e4e4;}.b{fill:#068cf3;}</style>
+    </defs>
+    <g transform="translate(0.002 0)">
+        <ellipse class="a" cx="34" cy="33.5" rx="34" ry="33.5" transform="translate(-0.002 0)"/>
+        <g transform="translate(14.433 9.699)">
+            <path class="b" d="M352.38,146.8l19.49-9.908,19.49,9.908Z" transform="translate(-350.636 -136.897)"/>
+            <rect class="b" width="38.98" height="2.009" transform="translate(1.744 11.655)"/>
+            <rect class="b" width="38.98" height="2.009" transform="translate(1.744 34.706)"/>
+            <rect class="b" width="42.468" height="3.349" transform="translate(0 37.692)"/>
+            <rect class="b" width="3.742" height="19.004" transform="translate(1.956 14.756)"/>
+            <rect class="b" width="3.742" height="19.004" transform="translate(10.694 14.756)"/>
+            <rect class="b" width="3.742" height="19.004" transform="translate(28.168 14.756)"/>
+            <rect class="b" width="3.742" height="19.004" transform="translate(36.906 14.756)"/>
+        </g>
+    </g>
+</svg>
